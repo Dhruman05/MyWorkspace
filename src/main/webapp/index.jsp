@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <!-- Preloader -->
+    <!-- Preloader Loading -->
     <div id="preloader">
         <div class="medilife-load"></div>
     </div>
